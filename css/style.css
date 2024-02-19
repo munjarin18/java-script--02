@@ -1,0 +1,20 @@
+
+.sub_main{
+    position: relative;  
+    text-align: center;
+  
+}
+.one{
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+    border: 2px solid seagreen;
+}
+.sub_main i{
+    position: absolute;
+    left: 850px;
+    top: 65px;
+}
+.sub_main h2{
+    color: brown;
+}
